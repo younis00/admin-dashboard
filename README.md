@@ -1,6 +1,6 @@
 # Screenshot
 <!-- Screenshot  -->
-<img src="admin-dashboard/Screenshot-2024-04-12-031524.png" alt="screenshot"/>
+<img src="Screenshot 2024-04-12 031524.png" alt="screenshot"/>
 
 # Getting Started with Create React App
 
